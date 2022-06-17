@@ -6,7 +6,12 @@ This is hello world repository
 #include<bits/stdc++.h>
 using namespace std;
 
-int main() {
+
+     
+     
+     
+     
+     int main() {
      array<int,5> arr ={1,2,3,3,5};
      array<int,2> arr2;
      unordered_map<int,int> mp;
